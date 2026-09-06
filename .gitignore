@@ -1,0 +1,5 @@
+credentials-DO-NOT-COMMIT.md
+*.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
